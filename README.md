@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Pr-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Xd-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/>&nbsp 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiyaLuna)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiyaLuna&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <hr>
   
