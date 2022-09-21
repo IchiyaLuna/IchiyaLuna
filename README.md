@@ -22,6 +22,7 @@
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=black"/>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/Pr-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Xd-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/>&nbsp 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiyaLuna&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiyaLuna&langs_count=8&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <hr>
   
