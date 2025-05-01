@@ -4,7 +4,7 @@
   <h3>🍓About ME🍓</h3>
     
     Hello, I'm freelance developer & student at Yonsei University. 
-    I develop web using React(or Vue.js), MySQL DBMS.
+    I develop web using React(Next.js), MySQL(MariaDB) DBMS.
     I also build servers in a Linux environment, Synology Env.
     Media production using Adobe products is also possible.
     Recently, I'm interested in developing games using Unity.
