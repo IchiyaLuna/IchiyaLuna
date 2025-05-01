@@ -11,7 +11,7 @@
     
   
   <h3>🌐Languages🌐</h3>
-  🇰🇷🇺🇸🇯🇵
+  KR / EN / JP
   <hr>
   <h3>⚙️Tech Stack⚙️</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
